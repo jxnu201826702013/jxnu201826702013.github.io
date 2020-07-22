@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cherry</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://axh2018.github.io/"/>
+  <updated>2020-06-19T10:12:26.716Z</updated>
+  <id>https://axh2018.github.io/</id>
+  
+  <author>
+    <name>布莱恩特科比酱</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaWeb应用部署到服务器</title>
+    <link href="https://axh2018.github.io/posts/2691.html"/>
+    <id>https://axh2018.github.io/posts/2691.html</id>
+    <published>2020-06-19T09:50:23.000Z</published>
+    <updated>2020-06-19T10:12:26.716Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这几天也是写了个Java的大作业，基于&lt;code&gt;servle&lt;/code&gt;和&lt;code&gt;jsp&lt;/code&gt;对学生，教师等一系列的增删改查，中途也踩了很多坑，最后本地运行没问题，但是想让别的小伙伴也可看到，正好手里头有空闲的服务器，于是就有了这篇文章，做个记录。&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Java" scheme="https://axh2018.github.io/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ubuntu安装oraclejdk</title>
+    <link href="https://axh2018.github.io/posts/6977.html"/>
+    <id>https://axh2018.github.io/posts/6977.html</id>
+    <published>2020-06-17T12:52:34.000Z</published>
+    <updated>2020-06-20T13:20:10.685Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;ubuntu1810服务器安装OracleJdk&quot;&gt;&lt;a href=&quot;#ubuntu1810服务器安装OracleJdk&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://axh2018.github.io/categories/Java/"/>
+    
+    
+      <category term="软件" scheme="https://axh2018.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PicGo+Github搭建图床</title>
+    <link href="https://axh2018.github.io/posts/d03f.html"/>
+    <id>https://axh2018.github.io/posts/d03f.html</id>
+    <published>2020-04-23T01:38:53.000Z</published>
+    <updated>2020-06-01T09:36:54.035Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;背景：&lt;/p&gt;
+&lt;p&gt;​    写文章时，如果需要插入很多图片，这个时候比较麻烦，无意之中发现了PicGo这个开源软件，极大的简化了我们的很多操作。并且支持很多类型的图床。如
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="图床" scheme="https://axh2018.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初识jdbc</title>
+    <link href="https://axh2018.github.io/posts/6604.html"/>
+    <id>https://axh2018.github.io/posts/6604.html</id>
+    <published>2020-03-14T07:14:43.000Z</published>
+    <updated>2020-06-17T12:54:46.775Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;JDBC（Java DataBase Connectivity,java数据库连接）是一种用于执行SQL语句的Java
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://axh2018.github.io/categories/Java/"/>
+    
+    
+      <category term="JDBC" scheme="https://axh2018.github.io/tags/JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo+Github部署博客</title>
+    <link href="https://axh2018.github.io/posts/a654.html"/>
+    <id>https://axh2018.github.io/posts/a654.html</id>
+    <published>2020-02-08T05:28:30.000Z</published>
+    <updated>2020-06-01T09:41:58.342Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hexo搭建个人博客&quot;&gt;&lt;a href=&quot;#Hexo搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;Hexo搭建个人博客&quot;&gt;&lt;/a&gt;Hexo搭建个人博客&lt;/h1&gt;&lt;h2 id=&quot;简单开始&quot;&gt;&lt;a href=&quot;#简单开始&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://axh2018.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="Hexo" scheme="https://axh2018.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker运行酷Q</title>
+    <link href="https://axh2018.github.io/posts/a01a.html"/>
+    <id>https://axh2018.github.io/posts/a01a.html</id>
+    <published>2020-01-29T10:19:46.000Z</published>
+    <updated>2020-06-01T09:25:06.587Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;CentOS运行酷Q需要&lt;a href=&quot; https://www.docker.com/ &quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;docker&lt;/a&gt;的加持，什么是docker?&lt;/p&gt;
+&lt;p&gt; Docker
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Docker" scheme="https://axh2018.github.io/categories/Docker/"/>
+    
+    
+      <category term="Docker" scheme="https://axh2018.github.io/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ArchLinux安装</title>
+    <link href="https://axh2018.github.io/posts/d698.html"/>
+    <id>https://axh2018.github.io/posts/d698.html</id>
+    <published>2020-01-08T15:02:29.000Z</published>
+    <updated>2020-06-01T09:23:50.696Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;系统安装&quot;&gt;&lt;a href=&quot;#系统安装&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Arch" scheme="https://axh2018.github.io/categories/Arch/"/>
+    
+    
+      <category term="Arch" scheme="https://axh2018.github.io/tags/Arch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown语法摘要</title>
+    <link href="https://axh2018.github.io/posts/9c48.html"/>
+    <id>https://axh2018.github.io/posts/9c48.html</id>
+    <published>2019-12-07T14:15:57.000Z</published>
+    <updated>2020-06-01T09:37:29.430Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 align=&quot;center&quot;&gt;Markdown入门指南&lt;/h2&gt;
+博客搭建教程可以参考&lt;a href=&quot;https://yafine-blog.cn/posts/4ab2.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="MarkDown" scheme="https://axh2018.github.io/categories/MarkDown/"/>
+    
+    
+      <category term="博客" scheme="https://axh2018.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
